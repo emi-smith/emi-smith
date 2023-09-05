@@ -39,6 +39,6 @@ I changed careers and have been working towards becoming a front-end developer.
 
 <div width="100%" align="center"><a href="https://github.com/emi-smith/portfolio-nextjs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emi-smith&repo=portfolio-nextjs&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/emi-smith/ems-shore-landing-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emi-smith&repo=ems-shore-landing-page&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
